@@ -1,6 +1,6 @@
 ### Hi, I'm Arturo (he/him) 👋
 
-<img src=""/>
+<img src="./img/arturocode_github.png"/>
 
 🌱 I’m currently studying my final year of Web Development. I have also attended courses of technology platforms such as OpenWebinars and Platzi. In addition, I'm a Systems & Networks Technician and have worked in companies such as AlcabaBC and Serconi offering IT advice and technical support. 
 
