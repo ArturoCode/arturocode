@@ -1,5 +1,4 @@
-# Hi, I'm Arturo <img src="./img/hand.gif" width="48px" height="48px"/>
-###### (he/him)
+# Hi, I'm Arturo ###### (he/him) <img src="./img/hand.gif" width="48px" height="48px"/>
 
 <img src="./img/arturocode_github.png"/>
 
