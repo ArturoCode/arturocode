@@ -8,7 +8,7 @@
 
 ## Find me around the web
 
-For more information about me and my projects, check out arturocode.github.io.
+For more information about me and my projects, check out <a href="arturocode.github.io">arturocode.github.io</a>.
 
 📫 You can contact me at arturocodedev@gmail.com. Also, I'm on Twitter and Instagram as @ArturoCode
 
