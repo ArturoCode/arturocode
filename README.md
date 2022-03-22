@@ -48,9 +48,7 @@
      </tr>
 </table>
           </td>
-          <td>
-               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)
-          </td>
+          <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)</td>
      </tr>
 </table>
 
