@@ -52,7 +52,7 @@ I'm on social media too 📱
 
 ##### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={arturocode}&theme=blue-green)
         
 ###### Credits
 
