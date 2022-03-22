@@ -10,9 +10,7 @@
 
 😄 Pronouns: he / him
 
-<table border="0">
-     <tr>
-          <td>
+
 <table border="0">
      <tr>
           <td>
@@ -47,11 +45,8 @@
           </td>
      </tr>
 </table>
-          </td>
-          <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)</td>
-     </tr>
-</table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)
 
 ## Find me around the web 🌎
 
