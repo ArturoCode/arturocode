@@ -19,7 +19,7 @@ I'm on social media too 📱
 <a href="https://www.linkedin.com/arturocode"><img src="./img/linkedin.png"/></a>
      
      
-###Credits
+###### Credits
 
 <a target="_blank" href="https://icons8.com/icon/xWVjuc9hryql/twitter">Twitter</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
