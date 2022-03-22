@@ -54,7 +54,7 @@ I'm on social media too 📱
 <a href="https://www.instagram.com/arturocode"><img src="./img/instagram.png"/></a>
 <a href="https://www.linkedin.com/arturocode"><img src="./img/linkedin.png"/></a>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={arturocode}&theme=blue-green
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)
      
      
 ###### Credits
