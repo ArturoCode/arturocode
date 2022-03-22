@@ -2,9 +2,25 @@
 
 <img src="./img/arturocode_github.png"/>
 
-📜 I’m currently studying my final year of Web Development. I have also attended courses of technology platforms such as OpenWebinars and Platzi. 
+📜 I’m currently studying my final year of Web Development. I have also attended courses of technology platforms such as OpenWebinars and Platzi. In addition, I'm a IT Technician and have worked in AlcalaBC and Serconi offering IT advice and technical support. 
 
-🔭 In addition, I'm a IT Technician and have worked in AlcalaBC and Serconi offering IT advice and technical support. 
+### 🔧 Technologies & Tools
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 
 🌱 I use languages like JavaScript, PHP, HTML, CSS and framweorks like Symfony and now I'm currently learning some new programming lenguages and frameworks such as React, Angular & Vue before doing my work internship.
 
@@ -25,6 +41,8 @@ I'm on social media too 📱
 <a href="https://www.twitter.com/ArturoCode"><img src="./img/twitter.png"/></a>
 <a href="https://www.instagram.com/arturocode"><img src="./img/instagram.png"/></a>
 <a href="https://www.linkedin.com/arturocode"><img src="./img/linkedin.png"/></a>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={arturocode}&theme=blue-green
      
      
 ###### Credits
