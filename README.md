@@ -38,8 +38,6 @@
      </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)
-
 ## Find me around the web 🌎
 
 For more information about me and my projects, check out <a href="http://arturocode.github.io">arturocode.github.io</a>.
@@ -51,6 +49,10 @@ I'm on social media too 📱
 <a href="https://www.twitter.com/ArturoCode"><img src="./img/twitter.png"/></a>
 <a href="https://www.instagram.com/arturocode"><img src="./img/instagram.png"/></a>
 <a href="https://www.linkedin.com/arturocode"><img src="./img/linkedin.png"/></a>
+
+##### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)
         
 ###### Credits
 
