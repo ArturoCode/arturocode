@@ -1,4 +1,4 @@
-### Hi, I'm Arturo (he/him) 👋
+# Hi, I'm Arturo (he/him) 👋
 
 <img src="./img/arturocode_github.png"/>
 
@@ -6,9 +6,11 @@
 
 🔭 I use languages and frameworks like JavaScript, PHP, HTML, CSS and Symfony and now I'm currently learning some new programming lenguages and frameworks such as React, Angular & Vue before doing my internship.
 
-📫 You can contact me at arturocodedev@gmail.com. Also, I'm on Twitter and Instagram
+## Find me around the web
 
-<img src=""> <img src="">
+For more information about me and my projects, check out arturocode.github.io.
+
+📫 You can contact me at arturocodedev@gmail.com. Also, I'm on Twitter and Instagram as @ArturoCode
 
 
 
