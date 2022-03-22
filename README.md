@@ -1,10 +1,15 @@
-# Hi, I'm Arturo (he/him) 👋
+# Hi, I'm Arturo 👋
+###### (he/him)
 
 <img src="./img/arturocode_github.png"/>
 
 📜 I’m currently studying my final year of Web Development. I have also attended courses of technology platforms such as OpenWebinars and Platzi. In addition, I'm a Systems & Networks Technician and have worked in AlcalaBC and Serconi offering IT advice and technical support. 
 
 🌱 I use languages like JavaScript, PHP, HTML, CSS and framweorks like Symfony and now I'm currently learning some new programming lenguages and frameworks such as React, Angular & Vue before doing my work internship.
+
+⚡ Fun fact: I'm a writer & professional reader. I have published several novels and short stories, so I can help other writers and, in general, people who work in the publishing industry in their projects (websites, applications...)
+
+
 
 ## Find me around the web 🌎
 
