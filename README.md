@@ -14,7 +14,7 @@ For more information about me and my projects, check out <a href="http://arturoc
 
 I'm on social media too 📱
 
-<a href="htttps://www.twitter.com/ArturoCode"><img src="./img/twitter.png"/></a>
+<a href="https://www.twitter.com/ArturoCode"><img src="./img/twitter.png"/></a>
 <a href="https://www.instagram.com/arturocode"><img src="./img/instagram.png"/></a>
 <a href="https://www.linkedin.com/arturocode"><img src="./img/linkedin.png"/></a>
      
