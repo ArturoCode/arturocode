@@ -13,6 +13,9 @@
 <table border="0">
      <tr>
           <td>
+<table border="0">
+     <tr>
+          <td>
                <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
                <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
           </td>
@@ -44,8 +47,12 @@
           </td>
      </tr>
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)
+          </td>
+          <td>
+               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)
+          </td>
+     </tr>
+</table>
 
 
 ## Find me around the web 🌎
