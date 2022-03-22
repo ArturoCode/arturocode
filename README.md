@@ -1,4 +1,4 @@
-# Hi, I'm Arturo 👋
+# Hi, I'm Arturo <img src="./img/hand.gif"/>
 ###### (he/him)
 
 <img src="./img/arturocode_github.png"/>
