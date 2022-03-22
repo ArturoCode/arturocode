@@ -2,7 +2,7 @@
 
 <img src="./img/arturocode_github.png"/>
 
-🌱 I’m currently studying my final year of Web Development. I have also attended courses of technology platforms such as OpenWebinars and Platzi. In addition, I'm a Systems & Networks Technician and have worked in companies such as AlcabaBC and Serconi offering IT advice and technical support. 
+🌱 I’m currently studying my final year of Web Development. I have also attended courses of technology platforms such as OpenWebinars and Platzi. In addition, I'm a Systems & Networks Technician and have worked in companies such as AlcalaBC and Serconi offering IT advice and technical support. 
 
 🔭 I use languages and frameworks like JavaScript, PHP, HTML, CSS and Symfony and now I'm currently learning some new programming lenguages and frameworks such as React, Angular & Vue before doing my internship.
 
