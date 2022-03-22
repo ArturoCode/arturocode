@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I'm Arturo (he/him) 👋
+
+<img src=""/>
+
+🌱 I’m currently studying my final year of Web Development. I have also attended courses of technology platforms such as OpenWebinars and Platzi. In addition, I'm a Systems & Networks Technician and have worked in companies such as AlcabaBC and Serconi offering IT advice and technical support. 
+
+🔭 I use languages and frameworks like JavaScript, PHP, HTML, CSS and Symfony and now I'm currently learning some new programming lenguages and frameworks such as React, Angular & Vue before doing my internship.
+
+📫 You can contact me at arturocodedev@gmail.com. Also, I'm on Twitter and Instagram
+
+<img src=""> <img src="">
+
+
 
 <!--
 **ArturoCode/arturocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
