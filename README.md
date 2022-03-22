@@ -4,7 +4,7 @@
 
 📜 I’m currently studying my final year of Web Development. I have also attended courses of technology platforms such as OpenWebinars and Platzi. 
 
-🔭 In addition, I'm a Systems & Networks Technician and have worked in AlcalaBC and Serconi offering IT advice and technical support. 
+🔭 In addition, I'm a IT Technician and have worked in AlcalaBC and Serconi offering IT advice and technical support. 
 
 🌱 I use languages like JavaScript, PHP, HTML, CSS and framweorks like Symfony and now I'm currently learning some new programming lenguages and frameworks such as React, Angular & Vue before doing my work internship.
 
