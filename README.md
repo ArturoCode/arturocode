@@ -2,9 +2,9 @@
 
 <img src="./img/arturocode_github.png"/>
 
-📜 I’m currently studying my final year of Web Development. I have also attended courses of technology platforms such as OpenWebinars and Platzi. In addition, I'm a IT Technician and have worked in AlcalaBC and Serconi offering IT advice and technical support. 
+📜 I’m currently studying my final year of Web Development. I have also attended courses of technology platforms such as OpenWebinars and Platzi. In addition, I'm a IT Technician and I've worked in AlcalaBC and Serconi offering IT advice and technical support. 
 
-🌱 I use languages like JavaScript, PHP, HTML, CSS and framweorks like Symfony and now I'm currently learning some new programming lenguages and frameworks such as React, Angular & Vue before doing my work internship.
+🌱 I use languages like JavaScript, PHP, HTML, CSS and framweorks like Symfony and now I'm currently learning some new programming languages and frameworks such as React, Angular & Vue before doing my work internship.
 
 ⚡ Fun fact: I'm a writer & professional reader. I have published several novels and short stories, so I can help other writers and, in general, people who work in the publishing industry in their projects (websites, applications...)
 
@@ -48,7 +48,7 @@ I'm on social media too 📱
 
 <a href="https://www.twitter.com/ArturoCode"><img src="./img/twitter.png"/></a>
 <a href="https://www.instagram.com/arturocode"><img src="./img/instagram.png"/></a>
-<a href="https://www.linkedin.com/arturocode"><img src="./img/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/arturo-u-139591190/"><img src="./img/linkedin.png"/></a>
 
 ##### Stats
 
@@ -61,6 +61,8 @@ I'm on social media too 📱
 <a target="_blank" href="https://icons8.com/icon/TEYr8ETaIfBJ/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <a target="_blank" href="https://icons8.com/icon/108812/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+Profile picture by makowwka
 
 
 <!--
