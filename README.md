@@ -4,11 +4,11 @@
 
 📜 I’m currently studying my final year of Web Development. I have also done several courses of technology platforms such as OpenWebinars, Platzi and Crehana. In addition, I'm also a IT Technician and I've worked in AlcalaBC and Serconi offering IT advice and technical support. 
 
-🌱 I use languages like JavaScript, PHP, SQL, HTML & CSS and frameworks like Symfony and now I'm currently learning some new programming languages (Phyton) and other frameworks such as React, Angular & Vue before doing my work internship as a web developer.
+🌱 I use languages like JavaScript, PHP, SQL, HTML & CSS and frameworks like Symfony and now I'm currently learning some new programming languages (Phyton) and other frameworks such as React, Angular, Laravel & Vue before doing my work internship as a web developer.
 
 🌍  I'm based in Madrid.
 
-⚡ See my portfolio at [ArturoCode](http://arturocode.github.io).
+⚡ See my portfolio at [ArturoCode](https://arturocode.github.io/cv-portfolio/).
 
 ✉️  You can contact me at [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
