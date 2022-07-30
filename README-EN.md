@@ -1,22 +1,22 @@
 <img src="./img/ArturoCode_header.png"/>
 
-## Hola, soy Arturo <img src="./img/hand.gif" width="48px" height="48px"/>
+## Hi, I'm Arturo <img src="./img/hand.gif" width="48px" height="48px"/>
 
-[English Version](https://github.com/ArturoCode/ArturoCode/blob/main/README-EN.md)
+[Spanish Version](https://github.com/ArturoCode/ArturoCode/blob/main/README.md)
 
-📜 Estoy estudiando mi último año del Grado Superior de Desarrollo de Aplicaciones Web y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Platzi o Crehana, entre otras. Además, soy Técnico de Sistemas y Redes y he trabajado en empresas como AlcalaBC y Serconi en puestos de consultoría informática y soporte técnico.
+📜 I’m currently studying my final year of Web Development. I have also done several courses of technology platforms such as OpenWebinars, Platzi or Crehana, etc. In addition, I'm also a IT Technician and I've worked in AlcalaBC and Serconi offering IT advice and technical support. 
 
-🌱 Uso lenguajes y código como JavaScript, PHP, SQL, HTML y CSS, y  frameworks como Symfony. Actualmente estoy aprendiendo otros lenguajes de programación como Python y TypeScript y otros frameworks como React o Angular antes de hacer mis prácticas como desarrollador web.
+🌱 I use languages like JavaScript, PHP, SQL, HTML & CSS and frameworks like Symfony and now I'm currently learning some new programming languages (Phyton, TypeScript...) and other frameworks such as React and Angular before doing my work internship as a web developer.
 
-🌍  Vivo actualmente en Madrid.
+🌍  I'm based in Madrid.
 
-⚡ Puedes ver mi portfolio en [ArturoCode](http://arturocode.github.io/cv-portfolio).
+⚡ See my portfolio at [ArturoCode](https://arturocode.github.io/cv-portfolio/).
 
-✉️  O contactarme a través de correo electrónico en [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
+✉️  You can contact me at [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
-🤝  Estoy abierto a colaborar en diferentes proyectos.
+🤝  I'm open to collaborating on interesting projects.
 
-📚  Fun Fact: He publicado novela, relato y ensayo y he trabajado con editoriales y autores, así que puedo ayudar a cualquier persona que trabaje en la industria literaria en sus proyectos (webs, blogs, otro tipo de aplicaciones...).
+📚  Fun Fact: I've published several novels & short stories and I've worked with publishers and authors, so I can help people who work in the publishing industry in their projects (websites, blogs...).
 
 
 <table border="0">
@@ -66,12 +66,12 @@
      </tr>
 </table>
 
-## Encuéntrame en la Web 🌎
+## Find me around the web 🌎
 
-Para más información sobre mí y mis proyectos, puedes explorar <a href="http://arturocode.github.io">arturocode.github.io</a>.
+For more information about me and my projects, check out <a href="http://arturocode.github.io">arturocode.github.io</a>.
 
 
-¡También estoy en redes sociales! 📱
+I'm on social media too 📱
 
 <a href="https://www.twitter.com/ArturoCode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.instagram.com/arturocode"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/arturo-urbanos-vara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.buymeacoffee.com/arturocode"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
@@ -82,4 +82,4 @@ Para más información sobre mí y mis proyectos, puedes explorar <a href="http:
         
 ###### Credits
 
-Foto de perfil de makowwka.
+Profile picture by makowwka.
