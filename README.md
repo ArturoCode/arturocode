@@ -78,7 +78,7 @@ Para más información sobre mí y mis proyectos, puedes visitar <a href="http:/
 
 #### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/arturocode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
         
 ###### Credits
 
