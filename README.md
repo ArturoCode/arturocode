@@ -10,7 +10,7 @@
 
 🌍  Vivo actualmente en Madrid.
 
-⚡ Puedes ver mi portfolio en [ArturoCode](http://arturocode.github.io/cv-portfolio).
+⚡ Puedes ver mi portfolio en [ArturoCode](http://arturocode.github.io/cv-online).
 
 ✉️  O contactarme a través de correo electrónico en [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
@@ -68,7 +68,7 @@
 
 ## Encuéntrame en la Web 🌎
 
-Para más información sobre mí y mis proyectos, puedes visitar <a href="http://arturocode.github.io">arturocode.github.io</a>.
+Para más información sobre mí y mis proyectos, puedes visitar <a href="https://arturocode.super.site/">arturocode.super.site</a>.
 
 
 ¡También estoy en redes sociales! 📱
