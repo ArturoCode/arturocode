@@ -6,7 +6,7 @@
 
 📜 Estoy estudiando mi último año del Grado Superior de Desarrollo de Aplicaciones Web y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Platzi o Crehana, entre otras. Además, soy Técnico de Sistemas y Redes y he trabajado en empresas como AlcalaBC y Serconi en puestos de consultoría informática y soporte técnico.
 
-🌱 Uso lenguajes y código como JavaScript, PHP, SQL, HTML y CSS, y  frameworks como Symfony. Actualmente estoy aprendiendo otros lenguajes de programación como Python y TypeScript y otros frameworks como React o Angular antes de hacer mis prácticas como desarrollador web.
+🌱 Uso lenguajes y código como JavaScript, PHP, SQL, HTML y CSS, y frameworks como Symfony. Actualmente estoy aprendiendo otros lenguajes de programación como Python y TypeScript y otros frameworks como React, Angular o Node.js.
 
 🌍  Vivo actualmente en Madrid.
 
