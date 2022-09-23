@@ -4,11 +4,11 @@
 
 [Spanish Version](https://github.com/ArturoCode/ArturoCode/blob/main/README.md)
 
-📜 I’m currently studying my final year of Web Development. I have also done several courses of technology platforms such as OpenWebinars, Platzi or Crehana, etc. In addition, I'm also a IT Technician and I've worked in AlcalaBC and Serconi offering IT advice and technical support. 
+📜 I’m currently finishing my final year of Web Development doing an internship as a web developer at Acevedo. I have also done several courses of technology platforms such as OpenWebinars, Platzi or Crehana, etc. In addition, I'm also a IT Technician and I've worked in AlcalaBC and Serconi offering IT advice and technical support. 
 
-🌱 I use languages like JavaScript, PHP, SQL, HTML & CSS and frameworks like Symfony and now I'm currently learning some new programming languages (Phyton, TypeScript...) and other frameworks such as React, Angular and Node.js.
+🌱 I use languages like JavaScript, PHP, SQL, HTML & CSS and frameworks like Bootstrap & Symfony and now I'm currently learning some new programming languages (Phyton, TypeScript...) and other frameworks such as React and Angular.
 
-🌍  I'm based in Madrid.
+🌍 I'm based in Madrid.
 
 ⚡ See my portfolio at [ArturoCode](https://arturocode.github.io/cv-portfolio/).
 
@@ -68,7 +68,7 @@
 
 ## Find me around the web 🌎
 
-For more information about me and my projects, check out <a href="http://arturocode.github.io">arturocode.github.io</a>.
+For more information about me and my projects, check out <a href="https://arturocode.super.site">arturocode.super.site</a>.
 
 
 I'm on social media too 📱
