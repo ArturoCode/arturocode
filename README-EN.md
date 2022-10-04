@@ -10,7 +10,7 @@
 
 🌍 I'm based in Madrid.
 
-⚡ You can see my portfolio / CV [here](https://arturocode.github.io/cv-portfolio/) or on my LinkedIn profile](https://www.linkedin.com/in/arturo-urbanos-vara).
+⚡ You can see my portfolio / CV [here](https://arturocode.github.io/cv-portfolio/) or on [my LinkedIn profile](https://www.linkedin.com/in/arturo-urbanos-vara).
 
 ✉️  You can contact me at [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
