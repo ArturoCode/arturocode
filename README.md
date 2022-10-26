@@ -5,7 +5,7 @@
 
 [English Version](https://github.com/ArturoCode/ArturoCode/blob/main/README-EN.md)
 
-📜 Estoy terminando mi último año del Grado Superior de Desarrollo de Aplicaciones Web haciendo prácticas como desarollador web en Acevedo y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Platzi o Crehana, entre otras. Además, soy Técnico de Sistemas y Redes y he trabajado en empresas como AlcalaBC y Serconi en puestos de consultoría informática y soporte técnico.
+📜 Estoy terminando mi último año del Grado Superior de Desarrollo de Aplicaciones Web haciendo prácticas como Full Stack Developer en Acevedo y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Platzi o Crehana, entre otras. Además, soy Técnico de Sistemas y Redes y he trabajado en empresas como AlcalaBC y Serconi en puestos de consultoría informática y soporte técnico.
 
 🌱 Uso lenguajes y código como JavaScript, PHP, SQL, HTML, CSS, y frameworks como Bootstrap y Symfony. Actualmente estoy aprendiendo otros lenguajes de programación como Python y TypeScript y otros frameworks como React y Angular.
 
