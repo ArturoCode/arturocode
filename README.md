@@ -1,6 +1,7 @@
-<img src="./img/ArturoCode_header.png"/>
 
-## Hola, soy Arturo <img src="./img/hand.gif" width="48px" height="48px"/>
+## <div align="center">Hola, soy Arturo <img src="./img/hand.gif" width="48px" height="48px"/></div>
+
+<img src="./img/ArturoCode_header.png"/>
 
 [English Version](https://github.com/ArturoCode/ArturoCode/blob/main/README-EN.md)
 
