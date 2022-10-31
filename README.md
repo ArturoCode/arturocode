@@ -28,7 +28,10 @@
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> 
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/symfony.png" width="36" height="36" alt="Symfony" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" width="36" height="36" alt="Apache" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/docker.png" width="36" height="36" alt="Docker" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
