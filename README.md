@@ -46,7 +46,7 @@
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/office-365.png" width="36" height="36" alt="Microsoft Office" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/google-logo.png" width="36" height="36" alt="Google Suite" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/128/000000/canva-app.png" width="36" height="36" alt="Canva" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/canva.png" width="36" height="36" alt="Canva" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/glyph-neue/64/000000/notion.png" width="36" height="36" alt="Notion" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/slack-new.png" width="36" height="36" alt="Slack" /></a>
