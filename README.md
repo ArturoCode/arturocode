@@ -17,7 +17,7 @@
 
 📚  Fun Fact: He publicado novela, relato y ensayo y he trabajado con editoriales y autores, así que puedo desarrollar y ayudar a cualquier persona que trabaje en la industria literaria con sus proyectos (webs, blogs, otro tipo de aplicaciones...).
 
-## Skills 🛠️
+## 🛠️ Skills
 
 ### Technologies
 
@@ -64,7 +64,7 @@
 </p>
 
 
-## Find me 🌎
+## 🌎 Find me
 
 Para más información sobre mí y mis proyectos, puedes visitar [mi web.](https://arturocode.super.site/) 
 
