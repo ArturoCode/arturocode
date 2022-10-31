@@ -11,7 +11,7 @@
 
 🌍 Vivo actualmente en Madrid.
 
-⚡ Puedes ver mi portfolio / CV [aquí](http://arturocode.github.io/cv-online) o en [LinkedIn](https://www.linkedin.com/in/arturo-urbanos-vara).
+⚡ Puedes consultar mi perfil de [LinkedIn](https://www.linkedin.com/in/arturo-urbanos-vara).
 
 ✉️  O contactarme a través de correo electrónico en [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
