@@ -77,7 +77,9 @@ Para más información sobre mí y mis proyectos, puedes visitar [mi web.](https
 
 ## 💻 Últimas publicaciones
 
-
+<p align="center"><a href="https://arturocode.super.site/blog/posts/te-ayudo-a-crear-tu-web-con-notion-y-super" target="blank"><img align="center" width="200px" src="https://arturocode.super.site/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2F8e9abef2-9411-4736-a6ef-893c3e266a60%2Fimages%2F0f19ccbd-b0a8-4083-bf87-1453c71a5ce1.png&w=1920&q=80"/></a>&nbsp;&nbsp;
+<a href="https://arturocode.super.site/blog/t-pgina-principal-de-notion-perfecta" target="blank"><img align="center" width="200px" src="https://arturocode.super.site/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2F8e9abef2-9411-4736-a6ef-893c3e266a60%2Fimages%2F510457dc-1f3e-45db-bf26-c5a335bda1f9.png&w=1920&q=80"/></a>&nbsp;&nbsp;
+</p>
 
 #### Stats
 
