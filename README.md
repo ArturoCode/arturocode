@@ -13,7 +13,7 @@
 
 ✉️  O contactarme a través de correo electrónico en [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
-🤝  Estoy abierto a colaborar en diferentes proyectos.
+🤝  Estoy abierto a colaborar en otros proyectos.
 
 📚  Fun Fact: He publicado novela, relato y ensayo y he trabajado con editoriales y autores, así que puedo desarrollar y ayudar a cualquier persona que trabaje en la industria literaria con sus proyectos (webs, blogs, otro tipo de aplicaciones...).
 
