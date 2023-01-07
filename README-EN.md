@@ -13,9 +13,10 @@
 
 ✉️  You can contact me at [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
-🤝  I'm open to collaborating on interesting projects.
+🤝  I am open to collaborate in other projects.
 
-📚  Fun Fact: I've published several novels & short stories and I've worked with publishers and authors, so I can help people who work in the publishing industry in their projects (websites, blogs...).
+📚  Fun Fact: I have published novels, short stories and essays and have worked with publishers and authors, so I can develop and help anyone working in the literary industry with their projects (websites, blogs, other types of applications...).
+
 
 ## 🛠️ Skills
 
@@ -48,7 +49,7 @@
 <a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://railway.app/brand/logo-dark.png" width="36" height="36" alt="Railway" /></a>
+<a href="https://planetscale.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/planetscale.svg" width="36" height="36" alt="PlanetScale" /></a>
 </p>
 
 ### Tools
@@ -61,8 +62,10 @@
 <a href="https://www.adobe.com/es/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="http://notion.so/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/glyph-neue/64/000000/notion.png" width="36" height="36" alt="Notion" /></a>
 <a href="https://slack.com/intl/es-es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/slack-new.png" width="36" height="36" alt="Slack" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="36" height="36" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
+<a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/railway.svg" width="36" height="36" alt="Railway" /></a>
+<a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/vercel-icon.svg" width="36" height="36" alt="Vercel" /></a>
 </p>
 
 ## Find me 🌎
@@ -77,8 +80,8 @@ I'm on social media too 📱
 
 ## 💻 Latest Posts
 
-<p align="center"><a href="https://arturocode.super.site/blog/posts/te-ayudo-a-crear-tu-web-con-notion-y-super" target="blank"><img align="center" width="300px" src="https://arturocode.super.site/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2F8e9abef2-9411-4736-a6ef-893c3e266a60%2Fimages%2F0f19ccbd-b0a8-4083-bf87-1453c71a5ce1.png&w=1920&q=80"/></a>&nbsp;&nbsp;
-<a href="https://arturocode.super.site/blog/t-pgina-principal-de-notion-perfecta" target="blank"><img align="center" width="300px" src="https://arturocode.super.site/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2F8e9abef2-9411-4736-a6ef-893c3e266a60%2Fimages%2F510457dc-1f3e-45db-bf26-c5a335bda1f9.png&w=1920&q=80"/></a>&nbsp;&nbsp;
+<p align="center"><a href="https://arturocode.super.site/blog/posts/te-ayudo-a-crear-tu-web-con-notion-y-super" target="blank"><img align="center" width="300px" src="https://public-files.gumroad.com/ck8aetnbnoi7x5mxlom94ljfzyrz"/></a>&nbsp;&nbsp;
+<a href="https://arturocode.super.site/blog/t-pgina-principal-de-notion-perfecta" target="blank"><img align="center" width="300px" src="https://public-files.gumroad.com/m8ulyco87clm1ilbioj1ia0ulh67"/></a>&nbsp;&nbsp;
 </p>
 
 
