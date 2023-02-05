@@ -9,7 +9,7 @@
 
 🌍 Vivo actualmente en Madrid.
 
-⚡ Puedes visitar mi [página web](https://arturocode.github.io/) o consultar mi perfil de [LinkedIn](https://www.linkedin.com/in/arturo-urbanos-vara).
+⚡ Puedes visitar mi [portfolio](https://arturocode.github.io/) o consultar mi perfil de [LinkedIn](https://www.linkedin.com/in/arturo-urbanos-vara).
 
 ✉️  O contactarme a través de correo electrónico en [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
@@ -69,7 +69,7 @@
 
 ## 🌎 Encuéntrame
 
-Para más información sobre mí y mis proyectos, puedes visitar [mi web.](https://arturocode.super.site/) 
+Para más información sobre mí y mis proyectos, puedes visitar [mi web.](https://arturocode.github.io/) 
 
 ¡También estoy en redes sociales! 📱
 
