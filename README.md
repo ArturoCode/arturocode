@@ -65,7 +65,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
 <a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/railway.svg" style="background color:white" width="36" height="36" alt="Railway" /></a>
 <a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/vercel-icon.svg" style="background-color:white" width="36" height="36" alt="Vercel" /></a>
-<a href="https://www.emailjs.com/docs/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Hfb_IyMr--/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5134/1294fd28-1c8d-455a-b2e9-1b54751a9095.png" width="36" height="36" alt="EmailJS" /></a>
+<a href="https://www.emailjs.com/docs/" target="_blank" rel="noreferrer"><img src="./img/emailjs.png" width="36" height="36" alt="EmailJS" /></a>
 </p>
 
 ## 🌎 Encuéntrame
