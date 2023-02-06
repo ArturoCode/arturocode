@@ -23,49 +23,49 @@
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-                <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-                <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" /></a>
-                <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-                <a href="https://symfony.com/doc/current/index.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/symfony.png" width="36" height="36" alt="Symfony" /></a>
-                <a href="https://httpd.apache.org/docs/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" width="36" height="36" alt="Apache" /></a>
-                <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/docker.png" width="36" height="36" alt="Docker" /></a>
-                <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-                <a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/office/40/null/markdown.png" width="36" height="36" alt="Markdown" /></a> 
-                <a href="https://git-scm.com/doc" target="_blank" id="lastImg" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/git.png" width="36" height="36" alt="Git" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://api.jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" /></a>
+<a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://symfony.com/doc/current/index.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/symfony.png" width="36" height="36" alt="Symfony" /></a>
+<a href="https://httpd.apache.org/docs/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" width="36" height="36" alt="Apache" /></a>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/docker.png" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/office/40/null/markdown.png" width="36" height="36" alt="Markdown" /></a>
+<a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/git.png" width="36" height="36" alt="Git" /></a>
 </p>
 
 ### In Progress
 
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-                <a href="http://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/office/40/null/express-js.png" width="36" height="36" alt="Express" /></a>        
-                <a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-                <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                <a href="https://planetscale.com/docs" target="_blank" id="lastImg" rel="noreferrer"><img src="https://api.iconify.design/logos/planetscale.svg" style="background-color:white" width="36" height="36" alt="PlanetScale" /></a>
+<a href="http://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/office/40/null/express-js.png" width="36" height="36" alt="Express" /></a>
+<a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://planetscale.com/docs" target="_blank" rel="noreferrer"><svg width="36" height="36" alt="PlanetScale" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M0 20C9.40317e-07 8.95427 8.95427 -9.40317e-07 20 0C28.1214 7.09998e-07 35.1122 4.84073 38.2446 11.7943L11.7943 38.2446C10.6593 37.7333 9.58053 37.1191 8.5699 36.4141L24.984 20H20L5.85787 34.1421C2.23858 30.5228 -4.82823e-07 25.5228 0 20Z" fill="#ffffff"></path><path d="M39.999 20.0065L20.0059 39.9996C31.0461 39.9959 39.9953 31.0468 39.999 20.0065Z" fill="#ffffff"></path></svg></a>
 </p>
 
 ### Tools
 
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                <a href="https://www.office.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/office-365.png" width="36" height="36" alt="Microsoft Office" /></a>
-                <a href="https://workspace.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/google-logo.png" width="36" height="36" alt="Google Workspace" /></a>
-                <a href="https://www.canva.com/es_es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/canva.png" width="36" height="36" alt="Canva" /></a>
-                <a href="https://www.adobe.com/es/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-                <a href="http://notion.so/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/notion.png" width="36" height="36" alt="Notion" /></a>
-                <a href="https://slack.com/intl/es-es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/slack-new.png" width="36" height="36" alt="Slack" /></a>
-                <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="36" height="36" alt="GitHub" /></a>
-                <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
-                <a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/railway.svg" style="background-color:white" width="36" height="36" alt="Railway" /></a>
-                <a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/vercel-icon.svg" style="background-color:white" width="36" height="36" alt="Vercel" /></a>
-<a href="https://www.emailjs.com/docs/" target="_blank" id="lastImg" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Hfb_IyMr--/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5134/1294fd28-1c8d-455a-b2e9-1b54751a9095.png" width="36" height="36" alt="EmailJS" /></a>
+<a href="https://www.office.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/office-365.png" width="36" height="36" alt="Microsoft Office" /></a>
+<a href="https://workspace.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/google-logo.png" width="36" height="36" alt="Google Workspace" /></a>
+<a href="https://www.canva.com/es_es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/canva.png" width="36" height="36" alt="Canva" /></a>
+<a href="https://www.adobe.com/es/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="http://notion.so/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/notion.png" width="36" height="36" alt="Notion" /></a>
+<a href="https://slack.com/intl/es-es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/slack-new.png" width="36" height="36" alt="Slack" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="36" height="36" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
+<a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://railway.app/brand/logo-light.svg" width="36" height="36" alt="Railway" /></a>
+<a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><svg width="36" height="36" alt="Vercel" viewBox="0 0 76 65" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M37.5274 0L75.0548 65H0L37.5274 0Z" fill="#ffffff"/></svg></a>
+<a href="https://www.emailjs.com/docs/" target="_blank" id="lastImg" rel="noreferrer"><svg width="36" height="36" alt="EmailJS" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 510.88 512" fill="#FCA253" class="logo navbar-logo"><rect x="270.57" width="240.31" height="240.31" rx="24" fill="inherit"></rect> <path d="M215.12 254.73V68.5a29.16 29.16 0 0 0-8.55-20.64 29.19 29.19 0 0 0-41.28 0L16.18 197a55.27 55.27 0 0 0 0 78.14l220.71 220.68a55.27 55.27 0 0 0 78.14 0l149.11-149.11a29.19 29.19 0 0 0 0-41.28l-1.14-1.12a29.16 29.16 0 0 0-20.64-8.55H256.15a41 41 0 0 1-41.03-41.03z" fill="inherit"></path></svg></a>
 </p>
 
 ## 🌎 Encuéntrame
