@@ -48,7 +48,7 @@
 <a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://planetscale.com/docs" target="_blank" rel="noreferrer"><svg width="36" height="36" alt="PlanetScale" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M0 20C9.40317e-07 8.95427 8.95427 -9.40317e-07 20 0C28.1214 7.09998e-07 35.1122 4.84073 38.2446 11.7943L11.7943 38.2446C10.6593 37.7333 9.58053 37.1191 8.5699 36.4141L24.984 20H20L5.85787 34.1421C2.23858 30.5228 -4.82823e-07 25.5228 0 20Z" fill="#ffffff"></path><path d="M39.999 20.0065L20.0059 39.9996C31.0461 39.9959 39.9953 31.0468 39.999 20.0065Z" fill="#ffffff"></path></svg></a>
+<a href="https://planetscale.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/planetscale.svg" style="background-color:white" width="36" height="36" alt="PlanetScale" /></a>
 </p>
 
 ### Tools
@@ -66,8 +66,6 @@
 <a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/railway.svg" style="background color:white" width="36" height="36" alt="Railway" /></a>
 <a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/vercel-icon.svg" style="background-color:white" width="36" height="36" alt="Vercel" /></a>
 <a href="https://www.emailjs.com/docs/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Hfb_IyMr--/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5134/1294fd28-1c8d-455a-b2e9-1b54751a9095.png" width="36" height="36" alt="EmailJS" /></a>
-</p>
-</p>
 </p>
 
 ## 🌎 Encuéntrame
