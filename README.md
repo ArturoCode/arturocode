@@ -63,9 +63,11 @@
 <a href="https://slack.com/intl/es-es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/slack-new.png" width="36" height="36" alt="Slack" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="36" height="36" alt="GitHub" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
-<a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://railway.app/brand/logo-light.svg" width="36" height="36" alt="Railway" /></a>
-<a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><svg width="36" height="36" alt="Vercel" viewBox="0 0 76 65" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M37.5274 0L75.0548 65H0L37.5274 0Z" fill="#ffffff"/></svg></a>
-<a href="https://www.emailjs.com/docs/" target="_blank" id="lastImg" rel="noreferrer"><svg width="36" height="36" alt="EmailJS" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 510.88 512" fill="#FCA253" class="logo navbar-logo"><rect x="270.57" width="240.31" height="240.31" rx="24" fill="inherit"></rect> <path d="M215.12 254.73V68.5a29.16 29.16 0 0 0-8.55-20.64 29.19 29.19 0 0 0-41.28 0L16.18 197a55.27 55.27 0 0 0 0 78.14l220.71 220.68a55.27 55.27 0 0 0 78.14 0l149.11-149.11a29.19 29.19 0 0 0 0-41.28l-1.14-1.12a29.16 29.16 0 0 0-20.64-8.55H256.15a41 41 0 0 1-41.03-41.03z" fill="inherit"></path></svg></a>
+<a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/railway.svg" style="background color:white" width="36" height="36" alt="Railway" /></a>
+<a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/vercel-icon.svg" style="background-color:white" width="36" height="36" alt="Vercel" /></a>
+<a href="https://www.emailjs.com/docs/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Hfb_IyMr--/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5134/1294fd28-1c8d-455a-b2e9-1b54751a9095.png" width="36" height="36" alt="EmailJS" /></a>
+</p>
+</p>
 </p>
 
 ## 🌎 Encuéntrame
