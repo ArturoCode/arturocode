@@ -5,11 +5,11 @@
 
 [Spanish Version](https://github.com/ArturoCode/ArturoCode/blob/main/README.md)
 
-📜 I’m currently finishing my final year of Web Development doing an internship as a Full Stack Developer at Acevedo. I have also done several courses of technology platforms such as OpenWebinars, Platzi or Crehana, etc. In addition, I'm also a IT Technician and I've worked in AlcalaBC and Serconi offering IT advice and technical support. 
+📜 I’m finishing my final year of my Bachelor's Degree in Web Application Development doing an internship as a Full Stack Developer at Acevedoand I have complemented my studies with courses in technology platforms such as OpenWebinars, Platzi or Crehana, among others. In addition, I'm also a IT Technician and I've worked in companies such as AlcalaBC and Serconi in IT consulting and technical support positions. 
 
 🌍 I'm based in Madrid.
 
-⚡ You can see my [LinkedIn profile](https://www.linkedin.com/in/arturo-urbanos-vara).
+⚡ You can see my [portfolio](https://arturocode.github.io/) or my [LinkedIn profile](https://www.linkedin.com/in/arturo-urbanos-vara).
 
 ✉️  You can contact me at [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
@@ -37,19 +37,19 @@
 <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/docker.png" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" width="36" height="36" alt="Markdown" /></a> 
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/office/40/null/markdown.png" width="36" height="36" alt="Markdown" /></a>
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/git.png" width="36" height="36" alt="Git" /></a>
 </p>
 
-### Learning
+### In Progress
 
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="http://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>        
+<a href="http://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/office/40/null/express-js.png" width="36" height="36" alt="Express" /></a>
 <a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://planetscale.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/planetscale.svg" width="36" height="36" alt="PlanetScale" /></a>
+<a href="https://planetscale.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/planetscale.svg" style="background-color:white" width="36" height="36" alt="PlanetScale" /></a>
 </p>
 
 ### Tools
@@ -60,17 +60,18 @@
 <a href="https://workspace.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/google-logo.png" width="36" height="36" alt="Google Workspace" /></a>
 <a href="https://www.canva.com/es_es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/canva.png" width="36" height="36" alt="Canva" /></a>
 <a href="https://www.adobe.com/es/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="http://notion.so/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/glyph-neue/64/000000/notion.png" width="36" height="36" alt="Notion" /></a>
+<a href="http://notion.so/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/notion.png" width="36" height="36" alt="Notion" /></a>
 <a href="https://slack.com/intl/es-es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/slack-new.png" width="36" height="36" alt="Slack" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="36" height="36" alt="GitHub" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="36" height="36" alt="GitHub" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
-<a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/railway.svg" width="36" height="36" alt="Railway" /></a>
-<a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/vercel-icon.svg" width="36" height="36" alt="Vercel" /></a>
+<a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/railway.svg" style="background color:white" width="36" height="36" alt="Railway" /></a>
+<a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/vercel-icon.svg" style="background-color:white" width="36" height="36" alt="Vercel" /></a>
+<a href="https://www.emailjs.com/docs/" target="_blank" rel="noreferrer"><img src="./img/emailjs.png" width="36" height="36" alt="EmailJS" /></a>
 </p>
 
 ## Find me 🌎
 
-For more information about me and my projects, you can visit [my website.](https://arturocode.super.site/)
+For more information about me and my projects, you can visit [my website.](https://arturocode.github.io/)
 
 I'm on social media too 📱
 
@@ -80,7 +81,8 @@ I'm on social media too 📱
 
 ## 💻 Latest Posts
 
-<p align="center"><a href="https://arturocode.super.site/blog/posts/te-ayudo-a-crear-tu-web-con-notion-y-super" target="blank"><img align="center" width="300px" src="https://public-files.gumroad.com/ck8aetnbnoi7x5mxlom94ljfzyrz"/></a>&nbsp;&nbsp;
+<p align="center">
+<a href="https://arturocode.super.site/blog/posts/te-ayudo-a-crear-tu-web-con-notion-y-super" target="blank"><img align="center" width="300px" src="https://public-files.gumroad.com/ck8aetnbnoi7x5mxlom94ljfzyrz"/></a>&nbsp;&nbsp;
 <a href="https://arturocode.super.site/blog/t-pgina-principal-de-notion-perfecta" target="blank"><img align="center" width="300px" src="https://public-files.gumroad.com/m8ulyco87clm1ilbioj1ia0ulh67"/></a>&nbsp;&nbsp;
 </p>
 
