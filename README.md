@@ -17,9 +17,9 @@
 
 📚  Fun Fact: He publicado novela, relato y ensayo y he trabajado con editoriales y autores, así que puedo desarrollar y ayudar a cualquier persona que trabaje en la industria literaria con sus proyectos (webs, blogs, otro tipo de aplicaciones...).
 
-## 🛠️ Skills
+## 🛠️ Habilidades
 
-### Technologies
+### Tecnologías
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -40,7 +40,7 @@
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/git.png" width="36" height="36" alt="Git" /></a>
 </p>
 
-### In Progress
+### En progreso
 
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -51,7 +51,7 @@
 <a href="https://planetscale.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/planetscale.svg" style="background-color:white" width="36" height="36" alt="PlanetScale" /></a>
 </p>
 
-### Tools
+### Herramientas
 
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
