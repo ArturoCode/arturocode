@@ -1,26 +1,25 @@
 
-## <div align="center">Hi, I'm Arturo <img src="./img/hand.gif" width="48px" height="48px"/></div>
+## <div align="center">Hola, soy Arturo <img src="./img/hand.gif" width="48px" height="48px"/></div>
 
 <img src="./img/ArturoCode_header.png"/>
 
-[Spanish Version](https://github.com/ArturoCode/ArturoCode/blob/main/README.md)
+[English Version](https://github.com/ArturoCode/ArturoCode/blob/main/README-EN.md)
 
-📜 I’m a Senior Technician in Web Applications Development and a Systems and Networks Technician. I'm currently working as a Full Stack Developer at Acevedo and I have complemented my studies with courses in technology platforms such as OpenWebinars, Platzi or Crehana, among others. In addition, on the systems and networks side, I've worked in companies such as AlcaláBC and Serconi in IT consulting and technical support positions.
+📜 Soy Técnico Superior de Desarrollo de Aplicaciones Web y de Sistemas y Redes. Actualmente estoy trabajando como Full Stack Developer en Acevedo y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Platzi o Crehana, entre otras. Además, en la parte de sistemas y redes, he trabajado en empresas como AlcaláBC y Serconi en puestos de consultoría informática y soporte técnico.
 
-🌍 I'm based in Madrid.
+🌍 Vivo actualmente en Madrid.
 
-⚡ You can see my [portfolio](https://arturocode.github.io/) or my [LinkedIn profile](https://www.linkedin.com/in/arturo-urbanos-vara).
+⚡ Puedes visitar mi [portfolio](https://arturocode.github.io/) o consultar mi perfil de [LinkedIn](https://www.linkedin.com/in/arturo-urbanos-vara).
 
-✉️  You can contact me at [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
+✉️  O contactarme a través de correo electrónico en [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
-🤝  I am open to collaborate in other projects.
+🤝  Estoy abierto a colaborar en otros proyectos.
 
-📚  Fun Fact: I've published novels, short stories and essays and I've worked with publishers and authors, so I can develop and help anyone working in the literary industry with their projects (websites, blogs, other applications...).
+📚  Fun Fact: He publicado novela, relato y ensayo y he trabajado con editoriales y autores independientes desde hace varios años, así que puedo desarrollar y ayudar a cualquier persona que trabaje en la industria literaria con sus proyectos (webs, blogs, otras aplicaciones...).
 
+## 🛠️ Habilidades
 
-## 🛠️ Skills
-
-### Technologies
+### Tecnologías
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -41,7 +40,7 @@
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/git.png" width="36" height="36" alt="Git" /></a>
 </p>
 
-### Working with...
+### Trabajando con...
 
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -55,7 +54,7 @@
 <a href="https://www.atlassian.com/es/software/jira/service-management/product-guide/overview" target="_blank" rel="noreferrer"><img src="./img/jira.png" width="36" height="36" alt="Jira" /></a>
 </p>
 
-### Tools
+### Herramientas
 
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -72,14 +71,23 @@
 <a href="https://www.emailjs.com/docs/" target="_blank" rel="noreferrer"><img src="./img/emailjs.png" width="36" height="36" alt="EmailJS" /></a>
 </p>
 
-## Find me 🌎
+## 🌎 Encuéntrame
 
-For more information about me and my projects, you can visit [my website.](https://arturocode.github.io/)
+Para más información sobre mí y mis proyectos, puedes visitar [mi web.](https://arturocode.github.io/) 
 
-I'm on social media too 📱
+¡También estoy en redes sociales! 📱
 
 <p align="left">
-<a href="https://www.twitter.com/ArturoCode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/arturo-urbanos-vara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.buymeacoffee.com/arturocode"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<a href="https://www.twitter.com/ArturoCode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/arturo-urbanos-vara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.buymeacoffee.com/arturocode"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+</p>
+
+## 💻 Últimas publicaciones
+
+<p align="center">
+<a href="https://arturocodeblog.super.site/entradas/te-ayudo-a-crear-tu-pgina-web-con-notion-y-super" target="blank"><img align="center" width="300px" src="https://public-files.gumroad.com/ck8aetnbnoi7x5mxlom94ljfzyrz"/></a>&nbsp;&nbsp;
+<a href="https://arturocodeblog.super.site/entradas/tu-pgina-principal-de-notion-perfecta" target="blank"><img align="center" width="300px" src="https://public-files.gumroad.com/m8ulyco87clm1ilbioj1ia0ulh67"/></a>&nbsp;&nbsp;
 </p>
 
 #### Stats
@@ -88,4 +96,4 @@ I'm on social media too 📱
         
 ###### Credits
 
-Profile picture by makowwka.
+Foto de perfil de makowwka.
