@@ -5,7 +5,7 @@
 
 [English Version](https://github.com/ArturoCode/ArturoCode/blob/main/README-EN.md)
 
-📜 Estoy terminando mi último año del Grado Superior de Desarrollo de Aplicaciones Web haciendo prácticas como Full Stack Developer en Acevedo y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Platzi o Crehana, entre otras. Además, soy Técnico de Sistemas y Redes y he trabajado en empresas como AlcalaBC y Serconi en puestos de consultoría informática y soporte técnico.
+📜 Soy Técnico Superior de Desarrollo de Aplicaciones Web y de Sistemas y Redes. Actualmente estoy trabajando como Full Stack Developer en Acevedo y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Platzi o Crehana, entre otras. Además, en la parte de sistemas y redes, he trabajado en empresas como AlcaláBC y Serconi en puestos de consultoría informática y soporte técnico.
 
 🌍 Vivo actualmente en Madrid.
 
@@ -15,7 +15,7 @@
 
 🤝  Estoy abierto a colaborar en otros proyectos.
 
-📚  Fun Fact: He publicado novela, relato y ensayo y he trabajado con editoriales y autores, así que puedo desarrollar y ayudar a cualquier persona que trabaje en la industria literaria con sus proyectos (webs, blogs, otro tipo de aplicaciones...).
+📚  Fun Fact: He publicado novela, relato y ensayo y he trabajado con editoriales y autores independientes desde hace varios años, así que puedo desarrollar y ayudar a cualquier persona que trabaje en la industria literaria con sus proyectos (webs, blogs, otras aplicaciones...).
 
 ## 🛠️ Habilidades
 
@@ -40,7 +40,7 @@
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/git.png" width="36" height="36" alt="Git" /></a>
 </p>
 
-### En progreso
+### Trabajando con...
 
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -48,7 +48,10 @@
 <a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://planetscale.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/planetscale.svg" style="background-color:white" width="36" height="36" alt="PlanetScale" /></a>
+<a href="https://planetscale.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/planetscale.svg" style="background-color: white;" width="36" height="36" alt="PlanetScale" /></a>
+<a href="https://docs.oracle.com/en/cloud/saas/netsuite/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/netsuite.svg" width="36" height="36" alt="NetSuite" /></a>
+<a href="https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/set_1502135122.html" target="_blank" rel="noreferrer"><img src="./img/suitescript.png" height="36" alt="SuiteScript" /></a>
+<a href="https://www.atlassian.com/es/software/jira/service-management/product-guide/overview" target="_blank" rel="noreferrer"><img src="./img/jira.png" width="36" height="36" alt="Jira" /></a>
 </p>
 
 ### Herramientas
@@ -63,8 +66,8 @@
 <a href="https://slack.com/intl/es-es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/slack-new.png" width="36" height="36" alt="Slack" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="36" height="36" alt="GitHub" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
-<a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/railway.svg" style="background color:white" width="36" height="36" alt="Railway" /></a>
-<a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/vercel-icon.svg" style="background-color:white" width="36" height="36" alt="Vercel" /></a>
+<a href="https://docs.railway.app/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/railway.svg" style="background-color: white;" width="36" height="36" alt="Railway" /></a>
+<a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/vercel-icon.svg" style="background-color: white;" width="36" height="36" alt="Vercel" /></a>
 <a href="https://www.emailjs.com/docs/" target="_blank" rel="noreferrer"><img src="./img/emailjs.png" width="36" height="36" alt="EmailJS" /></a>
 </p>
 
@@ -75,7 +78,9 @@ Para más información sobre mí y mis proyectos, puedes visitar [mi web.](https
 ¡También estoy en redes sociales! 📱
 
 <p align="left">
-<a href="https://www.twitter.com/ArturoCode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/arturo-urbanos-vara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.buymeacoffee.com/arturocode"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<a href="https://www.twitter.com/ArturoCode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/arturo-urbanos-vara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.buymeacoffee.com/arturocode"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
 
 ## 💻 Últimas publicaciones
