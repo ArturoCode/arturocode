@@ -9,13 +9,13 @@
 
 🌍 Vivo actualmente en Madrid.
 
-⚡ Puedes visitar mi [portfolio](https://arturocode.github.io/) o consultar mi perfil de [LinkedIn](https://www.linkedin.com/in/arturo-urbanos-vara).
+⚡ Puedes visitar mi [portfolio](https://arturocode.vercel.app/) o consultar mi perfil de [LinkedIn](https://www.linkedin.com/in/arturo-urbanos-vara).
 
 ✉️  O contactarme a través de correo electrónico en [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
 🤝  Estoy abierto a colaborar en otros proyectos.
 
-📚  Fun Fact: He publicado novela, relato y ensayo y he trabajado con editoriales y autores independientes desde hace varios años, así que puedo desarrollar y ayudar a cualquier persona que trabaje en la industria literaria con sus proyectos (webs, blogs, otras aplicaciones...).
+📚  Fun Fact: He publicado novela, relato y ensayo y he trabajado con editoriales y autores independientes desde hace años, así que puedo desarrollar sitios y ayudar a cualquier persona que trabaje en la industria literaria con sus proyectos (webs, blogs, otras aplicaciones...).
 
 ## 🛠️ Habilidades
 
@@ -73,7 +73,7 @@
 
 ## 🌎 Encuéntrame
 
-Para más información sobre mí y mis proyectos, puedes visitar [mi web.](https://arturocode.github.io/) 
+Para más información sobre mí y mis proyectos, puedes visitar [mi web.](https://arturocode.vercel.app/) 
 
 ¡También estoy en redes sociales! 📱
 

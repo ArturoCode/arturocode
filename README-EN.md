@@ -9,7 +9,7 @@
 
 🌍 I'm based in Madrid.
 
-⚡ You can see my [portfolio](https://arturocode.github.io/) or my [LinkedIn profile](https://www.linkedin.com/in/arturo-urbanos-vara).
+⚡ You can see my [portfolio](https://arturocode.vercel.app/) or my [LinkedIn profile](https://www.linkedin.com/in/arturo-urbanos-vara).
 
 ✉️  You can contact me at [arturocodedev@gmail.com](mailto:arturocodedev@gmail.com). 
 
@@ -74,7 +74,7 @@
 
 ## Find me 🌎
 
-For more information about me and my projects, you can visit [my website.](https://arturocode.github.io/)
+For more information about me and my projects, you can visit [my website.](https://arturocode.vercel.app/)
 
 I'm on social media too 📱
 
