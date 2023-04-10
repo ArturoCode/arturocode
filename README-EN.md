@@ -15,9 +15,6 @@
 
 🤝  I am open to collaborate in other projects.
 
-📚  Fun Fact: I've published novels, short stories and essays and I've worked with publishers and authors, so I can develop and help anyone working in the literary industry with their projects (websites, blogs, other applications...).
-
-
 ## 🛠️ Skills
 
 ### Technologies
