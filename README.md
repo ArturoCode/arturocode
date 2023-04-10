@@ -15,8 +15,6 @@
 
 🤝  Estoy abierto a colaborar en otros proyectos.
 
-📚  Fun Fact: He publicado novela, relato y ensayo y he trabajado con editoriales y autores independientes desde hace años, así que puedo desarrollar sitios y ayudar a cualquier persona que trabaje en la industria literaria con sus proyectos (webs, blogs, otras aplicaciones...).
-
 ## 🛠️ Habilidades
 
 ### Tecnologías
