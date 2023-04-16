@@ -5,7 +5,7 @@
 
 [Spanish Version](https://github.com/ArturoCode/ArturoCode/blob/main/README.md)
 
-📜 I’m a Senior Technician in Web Applications Development and a Systems and Networks Technician. I'm currently working as a Full Stack Developer at Acevedo and I have complemented my studies with courses in technology platforms such as OpenWebinars, Platzi or Crehana, among others. In addition, on the systems and networks side, I've worked in companies such as AlcaláBC and Serconi in IT consulting and technical support positions.
+📜 I’m a Senior Technician in Web Applications Development and a Systems and Networks Technician. I'm currently working as a Full Stack Developer at Acevedo and I have complemented my studies with courses in technology platforms such as OpenWebinars, Platzi or Oracle Learning, among others. In addition, on the systems and networks side, I've worked in companies such as AlcaláBC and Serconi in IT consulting and technical support positions.
 
 🌍 I'm based in Madrid.
 
@@ -50,6 +50,8 @@
 <a href="https://docs.oracle.com/en/cloud/saas/netsuite/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/netsuite.svg" width="36" height="36" alt="NetSuite" /></a>
 <a href="https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/set_1502135122.html" target="_blank" rel="noreferrer"><img src="./img/suitescript.png" height="36" alt="SuiteScript" /></a>
 <a href="https://www.atlassian.com/es/software/jira/service-management/product-guide/overview" target="_blank" rel="noreferrer"><img src="./img/jira.png" width="36" height="36" alt="Jira" /></a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width="42" height="42" alt="Wordpress" /></a>
+<a href="https://elementor.com/features/wordpress/" target="_blank" rel="noreferrer"><img src="https://darrelwilson.com/wp-content/uploads/2020/10/DW_logos_elementor_logo-150x150.png" width="36" height="36" alt="Elementor" /></a>
 </p>
 
 ### Tools
@@ -58,6 +60,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.office.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/office-365.png" width="36" height="36" alt="Microsoft Office" /></a>
 <a href="https://workspace.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/google-logo.png" width="36" height="36" alt="Google Workspace" /></a>
+<a href="https://www.blogger.com/about/?hl=es" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/blogger.png" width="36" height="36" alt="Blogger" /></a>
 <a href="https://www.canva.com/es_es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/canva.png" width="36" height="36" alt="Canva" /></a>
 <a href="https://www.adobe.com/es/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="http://notion.so/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/notion.png" width="36" height="36" alt="Notion" /></a>
