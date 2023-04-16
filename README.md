@@ -5,7 +5,7 @@
 
 [English Version](https://github.com/ArturoCode/ArturoCode/blob/main/README-EN.md)
 
-📜 Soy Técnico Superior de Desarrollo de Aplicaciones Web y de Sistemas y Redes. Actualmente estoy trabajando como Full Stack Developer en Acevedo y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Platzi o Oracle Learning, entre otras. Además, en la parte de sistemas y redes, he trabajado en empresas como AlcaláBC y Serconi en puestos de consultoría informática y soporte técnico.
+📜 Soy Técnico Superior de Desarrollo de Aplicaciones Web y de Sistemas y Redes. Actualmente estoy trabajando como Full Stack Developer en Acevedo y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Oracle Learning o Platzi, entre otras. Además, en la parte de sistemas y redes, he trabajado en empresas como AlcaláBC y Serconi en puestos de consultoría informática y soporte técnico.
 
 🌍 Vivo actualmente en Madrid.
 
