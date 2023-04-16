@@ -5,7 +5,7 @@
 
 [English Version](https://github.com/ArturoCode/ArturoCode/blob/main/README-EN.md)
 
-📜 Soy Técnico Superior de Desarrollo de Aplicaciones Web y de Sistemas y Redes. Actualmente estoy trabajando como Full Stack Developer en Acevedo y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Platzi o Crehana, entre otras. Además, en la parte de sistemas y redes, he trabajado en empresas como AlcaláBC y Serconi en puestos de consultoría informática y soporte técnico.
+📜 Soy Técnico Superior de Desarrollo de Aplicaciones Web y de Sistemas y Redes. Actualmente estoy trabajando como Full Stack Developer en Acevedo y he complementado mis estudios con cursos de plataformas de tecnología como OpenWebinars, Platzi o Oracle Learning, entre otras. Además, en la parte de sistemas y redes, he trabajado en empresas como AlcaláBC y Serconi en puestos de consultoría informática y soporte técnico.
 
 🌍 Vivo actualmente en Madrid.
 
@@ -50,6 +50,8 @@
 <a href="https://docs.oracle.com/en/cloud/saas/netsuite/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/netsuite.svg" width="36" height="36" alt="NetSuite" /></a>
 <a href="https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/set_1502135122.html" target="_blank" rel="noreferrer"><img src="./img/suitescript.png" height="36" alt="SuiteScript" /></a>
 <a href="https://www.atlassian.com/es/software/jira/service-management/product-guide/overview" target="_blank" rel="noreferrer"><img src="./img/jira.png" width="36" height="36" alt="Jira" /></a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width="42" height="42" alt="Wordpress" /></a>
+<a href="https://elementor.com/features/wordpress/" target="_blank" rel="noreferrer"><img src="https://darrelwilson.com/wp-content/uploads/2020/10/DW_logos_elementor_logo-150x150.png" width="36" height="36" alt="Elementor" /></a>
 </p>
 
 ### Herramientas
